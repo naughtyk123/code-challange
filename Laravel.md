@@ -1,6 +1,6 @@
 # Lumen/ Laravel coding challenge
 
-Take your time to complete this one – it’s not timed and we aren’t looking for you to crack the code quickly, it’s more about your best response and attitude.
+Below is our coding challenge to keep things moving forward. Take your time to complete this one – it’s not timed and we aren’t looking for you to crack the code quickly, it’s more about your best response please.
 
 Make an app written with Lumen or Laravel/Lumen  with the following features:
 
