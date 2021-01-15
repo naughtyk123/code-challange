@@ -17,7 +17,7 @@ Tasks:
 * Fetch profile of a github user (https://docs.github.com/en/free-pro-team@latest/rest/reference/users)
 * Fetch users repositories (https://docs.github.com/en/free-pro-team@latest/rest/reference/repos) including stars
 * Search for repositories  (https://docs.github.com/en/free-pro-team@latest/rest/reference/search)
-* Ability to star a given repository
+* Ability to star any repository
 
 ### Development environment:
 
