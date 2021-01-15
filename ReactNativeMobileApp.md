@@ -1,4 +1,4 @@
-# Native Mobile App Code challenge
+# Mobile App Code challenge
 
 Framework to be used: React native
 
