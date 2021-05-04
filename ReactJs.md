@@ -17,6 +17,9 @@ Make an app written with React or React Native by using React Router and React R
 
 
 ### Development environment:
+* Redux for state management
+* functional components only
+* resuable logic via hooks
 
 Share the repo link with the readme file specific for the project.
 
