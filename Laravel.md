@@ -8,7 +8,7 @@ Make an app written with Lumen or Laravel/Lumen or OOP PHP with the following fe
 * Write test cases (Choose your freedom of choice)
 * Authenticate with Medium OAuth
 * Display post and posts with images (should be used a local database)
-* Submit post to Mediam, set the post satus as `draft`
+* Submit post to Medium, set the post satus as `draft`
 * Store every details on a database
 
 ### Nice to have features:
