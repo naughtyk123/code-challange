@@ -1,0 +1,13 @@
+    .post_p{
+        color:#c0bbbb;
+    }
+    .actiondiv{
+        display: flex;justify-content: space-between;
+    }
+    .post_action{
+        display: flex;justify-content: space-between;
+        display: none
+    }
+    .postdiv:hover .post_action{
+        display: block;
+    }
